@@ -52,12 +52,11 @@ Today I work as a **Senior Software Engineer** with a heavy bias toward AI-augme
 
 | Project | Description |
 |---|---|
-| [**arrow-navigation**](https://github.com/borisbelmar/arrow-navigation)<br>![stars](https://img.shields.io/github/stars/borisbelmar/arrow-navigation?style=flat-square&color=5eff8a&logo=github&label=) ![npm core](https://img.shields.io/npm/v/@arrow-navigation/core?style=flat-square&color=5eff8a&label=core) ![npm react](https://img.shields.io/npm/v/@arrow-navigation/react?style=flat-square&color=5eff8a&label=react) | Zero-dependency keyboard navigation for UI grids, published as [`@arrow-navigation/core`](https://www.npmjs.com/package/@arrow-navigation/core) and [`@arrow-navigation/react`](https://www.npmjs.com/package/@arrow-navigation/react). Grew out of building Smart TV players at Mediastream. |
+| [**Aquasync**](https://ashokan.com/aquasync) | Water-usage monitoring app for NYC buildings, built for [Ashokan](https://ashokan.com), water-conservation leaders in New York. I built both the Aquasync app and the Ashokan site. *(private repo)* |
+| **LeyTracker** | Multi-tenant regulatory-tracking platform for Chilean banking compliance — Bun + Hono + React + MongoDB, replacing Excel-based compliance workflows. *(private repo)* |
 | [**dobleb.cl**](https://dobleb.cl) | This portfolio — Astro 5 + Tailwind v4, every post and project versioned as markdown in the repo, terminal aesthetic end to end. |
-| [**Zappipizza**](https://www.zappipizza.cl) · [source](https://github.com/borisbelmar/zappipizza) | Ordering site for a Chilean pizza chain. |
+| [**zappipizza.cl**](https://www.zappipizza.cl) · [source](https://github.com/borisbelmar/zappipizza) | Ordering site for a Chilean pizza chain. |
 | [**Mecánica Carrión**](https://www.mecanicacarrion.cl) · [source](https://github.com/borisbelmar/mecanica-carrion-astro) | Site for an auto repair shop. |
-| [**Altered TCG Chile**](https://github.com/borisbelmar/alteredtcg-cl-monorepo) | Hub and tooling for a Chilean trading-card-game community. |
-| [**tsdd**](https://github.com/borisbelmar/tsdd)<br>![status](https://img.shields.io/badge/status-abandoned-7d8590?style=flat-square) | A lightweight spec-driven-development methodology I designed and shipped — then killed myself once I noticed nobody, including me, was actually reading the specs. [Wrote up why →](https://dobleb.cl/en/blog/abandoning-tsdd/) |
 
 ### Writing
 
