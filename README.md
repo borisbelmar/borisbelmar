@@ -57,7 +57,7 @@ Today I work as a **Senior Software Engineer** with a heavy bias toward AI-augme
 | **LeyTracker** | Multi-tenant regulatory-tracking platform for Chilean banking compliance — Bun + Hono + React + MongoDB, replacing Excel-based compliance workflows. *(private repo)* |
 | [**dobleb.cl**](https://dobleb.cl) | This portfolio — Astro 5 + Tailwind v4, every post and project versioned as markdown in the repo, terminal aesthetic end to end. |
 | [**zappipizza.cl**](https://www.zappipizza.cl) · [source](https://github.com/borisbelmar/zappipizza) | Ordering site for a Chilean pizza chain. |
-| [**Mecánica Carrión**](https://www.mecanicacarrion.cl) · [source](https://github.com/borisbelmar/mecanica-carrion-astro) | Site for an auto repair shop. |
+| [**Mecánica Carrión**](https://www.mecanicacarrion.cl) · [source](https://github.com/borisbelmar/mecanica-carrion-astro) | Site for a motorcycle-specialized repair shop. |
 
 ### Writing
 
