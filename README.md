@@ -45,7 +45,7 @@ Today I work as a **Senior Software Engineer** with a heavy bias toward AI-augme
 | Languages | [TypeScript](https://www.typescriptlang.org) · [Java](https://www.java.com) · [Python](https://www.python.org) |
 | Frontend | [React](https://react.dev) · [Astro](https://astro.build) · [Next.js](https://nextjs.org) · [Tailwind CSS](https://tailwindcss.com) · [shadcn/ui](https://ui.shadcn.com) · [CoreUI](https://coreui.io) |
 | Mobile | [React Native](https://reactnative.dev) · [Kotlin](https://kotlinlang.org) |
-| Backend | [Hono](https://hono.dev) · [Express](https://expressjs.com) |
+| Backend | [Node.js](https://nodejs.org) · [Bun](https://bun.sh) · [Hono](https://hono.dev) · [Express](https://expressjs.com) |
 | Database | [Oracle](https://www.oracle.com/database/) · [PostgreSQL](https://www.postgresql.org) · [MongoDB](https://www.mongodb.com) · [MariaDB](https://mariadb.org) · [Neo4j](https://neo4j.com) · [Redis](https://redis.io) · [DynamoDB](https://aws.amazon.com/dynamodb/) |
 | Infra | [Linux](https://www.linux.org) · [Nginx](https://nginx.org) · [Docker](https://www.docker.com) · [Dokploy](https://dokploy.com) · [Cloudflare](https://www.cloudflare.com) · [DigitalOcean](https://www.digitalocean.com) · [Vultr](https://www.vultr.com) · [phpMyAdmin](https://www.phpmyadmin.net) |
 | Cloud | [AWS](https://aws.amazon.com) · [Azure](https://azure.microsoft.com) · [Vercel](https://vercel.com) |
