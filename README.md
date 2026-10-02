@@ -52,7 +52,8 @@ Today I work as a **Senior Software Engineer** with a heavy bias toward AI-augme
 
 | Project | Description |
 |---|---|
-| [**Aquasync**](https://ashokan.com/aquasync) | Water-usage monitoring app for NYC buildings, built for [Ashokan](https://ashokan.com), water-conservation leaders in New York. I built both the Aquasync app and the Ashokan site. *(private repo)* |
+| [**Aquasync**](https://ashokan.com/aquasync) | Water-usage monitoring app for NYC buildings, built for [Ashokan](https://ashokan.com), water-conservation leaders in New York. *(private repo)* |
+| [**Ashokan**](https://ashokan.com) | Marketing site for Ashokan, water-conservation leaders in New York — built with Astro. *(private repo)* |
 | **LeyTracker** | Multi-tenant regulatory-tracking platform for Chilean banking compliance — Bun + Hono + React + MongoDB, replacing Excel-based compliance workflows. *(private repo)* |
 | [**dobleb.cl**](https://dobleb.cl) | This portfolio — Astro 5 + Tailwind v4, every post and project versioned as markdown in the repo, terminal aesthetic end to end. |
 | [**zappipizza.cl**](https://www.zappipizza.cl) · [source](https://github.com/borisbelmar/zappipizza) | Ordering site for a Chilean pizza chain. |
