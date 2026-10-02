@@ -38,15 +38,17 @@ Today I work as a **Senior Software Engineer** with a heavy bias toward AI-augme
 
 ### Stack
 
-**Editor** ![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=5eff8a) ![Cursor](https://img.shields.io/badge/Cursor-0d1117?style=flat-square&logoColor=5eff8a)
-
-**AI** ![Claude](https://img.shields.io/badge/Claude-0d1117?style=flat-square&logoColor=5eff8a) ![GitHub Copilot](https://img.shields.io/badge/Copilot-0d1117?style=flat-square&logo=githubcopilot&logoColor=5eff8a) ![OpenClaw](https://img.shields.io/badge/OpenClaw-0d1117?style=flat-square&logoColor=5eff8a)
-
-**Frontend** ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=5eff8a) ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=5eff8a) ![Astro](https://img.shields.io/badge/Astro-0d1117?style=flat-square&logo=astro&logoColor=5eff8a) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=5eff8a)
-
-**Infra** ![Ubuntu](https://img.shields.io/badge/Ubuntu-0d1117?style=flat-square&logo=ubuntu&logoColor=5eff8a) ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=5eff8a) ![Dokploy](https://img.shields.io/badge/Dokploy-0d1117?style=flat-square&logoColor=5eff8a)
-
-**Cloud** ![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=5eff8a) ![Azure](https://img.shields.io/badge/Azure-0d1117?style=flat-square&logo=microsoftazure&logoColor=5eff8a)
+| Category | Tools |
+|---|---|
+| Editor | [VS Code](https://code.visualstudio.com) · [IntelliJ IDEA](https://www.jetbrains.com/idea/) |
+| AI | [Claude](https://claude.ai) · [OpenCode](https://opencode.ai) · [Oh My Pi](https://omp.sh) · [Hermes](https://hermesengine.dev) · [OpenRouter](https://openrouter.ai) · [Ollama](https://ollama.com) |
+| Languages | [TypeScript](https://www.typescriptlang.org) · [Java](https://www.java.com) · [Python](https://www.python.org) |
+| Frontend | [React](https://react.dev) · [Astro](https://astro.build) · [Next.js](https://nextjs.org) · [Tailwind CSS](https://tailwindcss.com) · [shadcn/ui](https://ui.shadcn.com) · [CoreUI](https://coreui.io) |
+| Mobile | [React Native](https://reactnative.dev) · [Kotlin](https://kotlinlang.org) |
+| Backend | [Hono](https://hono.dev) · [Express](https://expressjs.com) |
+| Database | [Oracle](https://www.oracle.com/database/) · [PostgreSQL](https://www.postgresql.org) · [MongoDB](https://www.mongodb.com) · [MariaDB](https://mariadb.org) · [Neo4j](https://neo4j.com) · [Redis](https://redis.io) · [DynamoDB](https://aws.amazon.com/dynamodb/) |
+| Infra | [Linux](https://www.linux.org) · [Nginx](https://nginx.org) · [Docker](https://www.docker.com) · [Dokploy](https://dokploy.com) · [Cloudflare](https://www.cloudflare.com) · [DigitalOcean](https://www.digitalocean.com) · [Vultr](https://www.vultr.com) · [phpMyAdmin](https://www.phpmyadmin.net) |
+| Cloud | [AWS](https://aws.amazon.com) · [Azure](https://azure.microsoft.com) · [Vercel](https://vercel.com) |
 
 ### Selected work
 
